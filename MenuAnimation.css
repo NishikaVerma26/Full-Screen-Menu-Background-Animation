@@ -80,7 +80,7 @@ nav a:nth-child(6n + 4) span:before {
   /* background: #a29bfe; */
   background: #e2d1f9;
 }
-nav a:nth-child(6n + 5) span:before {
+nav a:nth-child span:before {
   /* background: #fd79a8; */
   background: #ccf381;
 }
